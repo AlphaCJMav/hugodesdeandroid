@@ -12,4 +12,10 @@ publishDir = "docs"
 	name = "fotos"
 	title = "fotos"
 	url = "/fotos"
+	
+ [[menu.main]]
+  identifier = "Nuevas Fotos"
+  name = "Nuevas Fotos"
+  title = "Nuevas Fotos"
+  url = "/nuevasFotos"
 

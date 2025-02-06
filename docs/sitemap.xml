@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alphacjmav.github.io/hugodesdeandroid/</loc>
+    <loc>http://localhost:1313/hugodesdeandroid/</loc>
+    <lastmod>2025-02-06T04:20:53+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugodesdeandroid/nuevasfotos/</loc>
+    <lastmod>2025-02-06T04:20:53+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugodesdeandroid/nuevasfotos/nuevouno/</loc>
+    <lastmod>2025-02-06T04:20:53+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugodesdeandroid/fotos/dos/</loc>
+    <lastmod>2025-02-06T04:15:16+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugodesdeandroid/fotos/</loc>
+    <lastmod>2025-02-06T04:15:16+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugodesdeandroid/fotos/uno/</loc>
     <lastmod>2025-02-05T17:43:06+00:00</lastmod>
   </url><url>
-    <loc>https://alphacjmav.github.io/hugodesdeandroid/fotos/</loc>
-    <lastmod>2025-02-05T17:43:06+00:00</lastmod>
+    <loc>http://localhost:1313/hugodesdeandroid/categories/</loc>
   </url><url>
-    <loc>https://alphacjmav.github.io/hugodesdeandroid/fotos/uno/</loc>
-    <lastmod>2025-02-05T17:43:06+00:00</lastmod>
-  </url><url>
-    <loc>https://alphacjmav.github.io/hugodesdeandroid/categories/</loc>
-  </url><url>
-    <loc>https://alphacjmav.github.io/hugodesdeandroid/tags/</loc>
+    <loc>http://localhost:1313/hugodesdeandroid/tags/</loc>
   </url>
 </urlset>
