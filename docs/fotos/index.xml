@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fotos on Alpha hugo Site desde Android</title>
+    <link>https://alphacjmav.github.io/hugodesdeandroid/fotos/</link>
+    <description>Recent content in Fotos on Alpha hugo Site desde Android</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 05 Feb 2025 17:43:06 +0000</lastBuildDate>
+    <atom:link href="https://alphacjmav.github.io/hugodesdeandroid/fotos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uno</title>
+      <link>https://alphacjmav.github.io/hugodesdeandroid/fotos/uno/</link>
+      <pubDate>Wed, 05 Feb 2025 17:43:06 +0000</pubDate>
+      <guid>https://alphacjmav.github.io/hugodesdeandroid/fotos/uno/</guid>
+      <description>&lt;p&gt;Esta es una prueba desde Terminus Android&lt;/p&gt;&#xA;&lt;p&gt;[[{ imagen src=&amp;ldquo;imagen/prueba.png&amp;rdquo;}]]&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
