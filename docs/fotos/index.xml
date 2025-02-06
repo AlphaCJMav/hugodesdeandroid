@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fotos on Alpha hugo Site desde Android</title>
-    <link>http://localhost:1313/fotos/</link>
+    <link>https://example.org/fotos/</link>
     <description>Recent content in Fotos on Alpha hugo Site desde Android</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Wed, 05 Feb 2025 17:43:06 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/fotos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/fotos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uno</title>
-      <link>http://localhost:1313/fotos/uno/</link>
+      <link>https://example.org/fotos/uno/</link>
       <pubDate>Wed, 05 Feb 2025 17:43:06 +0000</pubDate>
-      <guid>http://localhost:1313/fotos/uno/</guid>
+      <guid>https://example.org/fotos/uno/</guid>
       <description>&lt;p&gt;Esta es una prueba desde Terminus Android&lt;/p&gt;&#xA;&lt;p&gt;[[{ imagen src=&amp;ldquo;imagen/prueba.png&amp;rdquo;}]]&lt;/p&gt;</description>
     </item>
   </channel>
