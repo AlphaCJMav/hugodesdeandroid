@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://alphacjmav.github.io/hugodesdeandroid/'
 languageCode = 'es'
 title = 'Alpha hugo Site desde Android'
 theme = 'ananke'
