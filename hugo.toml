@@ -2,4 +2,14 @@ baseURL = 'https://alphacjmav.github.io/hugodesdeandroid/'
 languageCode = 'es'
 title = 'Alpha hugo Site desde Android'
 theme = 'ananke'
+publishDir = "docs"
+
+[menu]
+
+[[menu.main]]
+
+	identifier = "Fotos"
+	name = "fotos"
+	title = "fotos"
+	url = "/fotos"
 
