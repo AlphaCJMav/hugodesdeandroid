@@ -4,3 +4,5 @@ title = 'Uno'
 +++
 
 Esta es una prueba desde Terminus Android
+
+[[{ imagen src="imagen/prueba.png"}]]
